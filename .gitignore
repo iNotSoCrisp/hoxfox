@@ -6,4 +6,5 @@ build/
 .agent/
 graphify-out/
 .env.local
-package-lock.jsonDetailed_Spotify_Filtering_Logic.pdf
+package-lock.json
+Detailed_Spotify_Filtering_Logic.pdf
